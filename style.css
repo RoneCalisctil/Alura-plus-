@@ -136,7 +136,7 @@ margin: 5em 3em
 
 .rodape__lista {
     display:flex;
-    justify-content:space-around;
+    justify-content:center;
     list-style-type:none;
     margin-top:1em;
 }
@@ -146,3 +146,5 @@ margin: 5em 3em
     color: var(--branco-principal);
     margin-left:1em;
 }
+
+
