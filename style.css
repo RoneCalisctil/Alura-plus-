@@ -136,7 +136,7 @@ margin: 5em 3em
 
 .rodape__lista {
     display:flex;
-    justify-content: center;
+    justify-content:space-around;
     list-style-type:none;
     margin-top:1em;
 }
