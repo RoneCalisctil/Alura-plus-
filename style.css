@@ -133,3 +133,10 @@ margin:5em 0
 text-align: center;
 margin: 5em 3em 
 }
+
+.rodape__lista {
+    display:flex;
+    justify-content: center;
+    list-style-type:none;
+    margin-top:1 em;
+}
